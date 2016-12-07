@@ -1,0 +1,2 @@
+https://buzut.fr/101-commandes-indispensables-sous-linux/
+tail -f [permet de lire les denières lignes d'un fichier, -f permet de rafraichir à chaque modification]
